@@ -1,0 +1,21 @@
+----Question----
+
+Write a program to convert the string to integer and add 2 into it.
+
+
+
+Expected output :
+type of str is= 
+after conversion type of str1 is= 
+Result = 7
+type of Result is = 
+
+----Solutuon----
+
+str = "5"
+print("type of str is=")
+str1 = int(str)
+print("after conversion type of str1 is=")
+result = str1+2
+print ("Result =",result)
+print("type of Result is =")
