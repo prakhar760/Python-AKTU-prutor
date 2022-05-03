@@ -1,0 +1,13 @@
+----Question----
+
+Declare two variables a and b. Assign them values and Print their sum.
+
+#Expected output:
+sum of a and b is 10
+
+----Solutuon----
+
+a=4
+b=6
+c=a+b
+print ("sum of a and b is",c)
