@@ -1,0 +1,17 @@
+----Question----
+
+Write a program in python to initialize two variables in a single assignment as x and y .
+Then assign them value as 10 and 20 respectively and print their result of the multiplication.
+
+Expected output : 
+x = 10
+y = 20
+Multiplication of x and y= 200
+
+----Solutuon----
+
+x,y=10,20
+print("x =",x)
+print("y =",y)
+z=x*y
+print("Multiplication of x and y=",z)
