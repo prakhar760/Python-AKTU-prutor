@@ -1,0 +1,24 @@
+----Question----
+
+Write a program to swap x, y value using multiple assignments and add 2 in x variable.
+
+
+
+x, y =4,7
+
+
+Expected output :
+x = 4 y = 7
+After swapping
+x = 7 y = 6
+
+----Solution----
+
+x, y = 4, 7
+print("x =", x,"y =", y)
+# write your logical code here
+temp=x
+x=y
+y=temp+2
+print("After swapping")
+print("x =", x,"y =", y)
